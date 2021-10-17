@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 2em;
+  background-color: linen
+}
+
+h1 {
+  font-style: italic;
+  color: magenta;
+}
+
+h2 {
+  color: darkviolet;
+}
+
+h3 {
+  color: rgb(00, 255, 00);
+}
+
+h5 {
+  color: orange;
+}
+
+p {
+ color: darkblue
+}
